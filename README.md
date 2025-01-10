@@ -1,0 +1,1 @@
+First pilote individual mini project done at Master School as Database design and coding for imaginary start-up marketing agency. Content: ERD diagram, normalized diagram and SQL code for database creation, instert data and simple testing (joining tables)
