@@ -1,1 +1,2 @@
-First pilote individual mini project done at Master School as Database design and coding for imaginary start-up marketing agency. Content: ERD diagram, normalized diagram and SQL code for database creation, instert data and simple testing (joining tables)
+First pilot individual mini project done at Master School as Database design and coding for imaginary start-up marketing agency. Content: ERD diagram, normalized diagram and SQL code for database creation, instert data and simple testing (joining tables). In addition to the documents here is short 5 min video recording of the project presentation done using Loom screen recording software.
+Link to the video: https://www.loom.com/share/455d01c7a5704318911c4052016baf40
